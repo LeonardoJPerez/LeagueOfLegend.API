@@ -1,0 +1,10 @@
+C:\Projects\LeagueOfLegends\LeagueOfLegends.Repository\bin\Debug\LeagueOfLegends.Repository.dll
+C:\Projects\LeagueOfLegends\LeagueOfLegends.Repository\bin\Debug\LeagueOfLegends.Repository.pdb
+C:\Projects\LeagueOfLegends\LeagueOfLegends.Repository\obj\Debug\LeagueOfLegends.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\LeagueOfLegends\LeagueOfLegends.Repository\obj\Debug\LeagueOfLegends.Repository.dll
+C:\Projects\LeagueOfLegends\LeagueOfLegends.Repository\obj\Debug\LeagueOfLegends.Repository.pdb
+C:\Projects\LeagueOfLegends.API\LeagueOfLegends.Repository\bin\Debug\LeagueOfLegends.Repository.dll
+C:\Projects\LeagueOfLegends.API\LeagueOfLegends.Repository\bin\Debug\LeagueOfLegends.Repository.pdb
+C:\Projects\LeagueOfLegends.API\LeagueOfLegends.Repository\obj\Debug\LeagueOfLegends.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\LeagueOfLegends.API\LeagueOfLegends.Repository\obj\Debug\LeagueOfLegends.Repository.dll
+C:\Projects\LeagueOfLegends.API\LeagueOfLegends.Repository\obj\Debug\LeagueOfLegends.Repository.pdb
